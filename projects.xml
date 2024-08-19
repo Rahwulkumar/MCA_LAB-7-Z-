@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="projects.xsl"?>
+
+<projects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="projects.xsd">
+    <project>
+        <title>Project 1</title>
+        <description>This project was my first ever project where it includes PHP, JavaScript, and HTML/CSS, allowing seamless interaction between users.</description>
+        <image>project1.jpg</image>
+    </project>
+    <project>
+        <title>Project 2</title>
+        <description>This project was my second project which includes Bootstrap.</description>
+        <image>project2.jpg</image>
+    </project>
+    <project>
+        <title>Project 3</title>
+        <description>This is my third project where I have included XML.</description>
+        <image>project3.jpg</image>
+    </project>
+</projects>
